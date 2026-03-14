@@ -13,3 +13,5 @@
 | **Stack** | Python · NumPy · Pandas · Scikit-learn · HTML/CSS/JS |
 
 ---
+
+## 📁 Project Structure
