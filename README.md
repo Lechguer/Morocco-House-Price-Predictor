@@ -4,7 +4,6 @@
 
 ## 🎯 Project Overview
 
-| | |
 |---|---|
 | **Type** | Supervised Learning — Regression |
 | **Algorithm** | Linear Regression (OLS — Ordinary Least Squares) |
