@@ -20,8 +20,30 @@
 
 ## 📁 Project Structure
 
-
-
+```
+House-Price-Prediction/
+│
+├── 📓 notebook/
+│   └── linear_regression_housing.ipynb   # Full analysis & model
+│
+├── 🌐 app/
+│   ├──                                     # Interactive web predictor
+│   └── static/                             # Generated plots
+│       ├── eda_prices.png
+│       ├── correlation.png
+│       ├── 
+│       └── 
+│
+├── 📊 data/
+│   └── morocco_housing.csv               # Dataset (500 samples)
+│
+├── 🤖 models/
+│   ├──                                   # Trained LinearRegression
+│   ├──                                   # StandardScaler
+│   └──                                   # Feature order
+│
+└── requirements.txt
+```
 ---
 
 ## 🧮 The Math — OLS Linear Regression
